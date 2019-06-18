@@ -1,6 +1,7 @@
 # Wave-algorithm
 
 本项目是陈晓冬教授团队设计的海浪算法的详细实验数据公开。
+
 如果您要使用此实验结果，需引用此论文：
 
 
@@ -13,8 +14,8 @@
 
 电话：+86-22-27404535 传真：+86-22-27404535
 
-EMAIL: koala_wy@tju.edu.cn
- ----------------------------------------------------------
+E-Mail: koala_wy@tju.edu.cn
+-----------------------------------------------------------
 OPTO-ELECTRONIC IMAGING & MEASURING TECHNOLOGY LABORATORY
 
 Address: No. 92, WeiJing Road, Tianjin,China
