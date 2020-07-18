@@ -3,7 +3,7 @@
 本项目为陈晓冬教授团队设计的海浪算法的详细实验数据公开。
 
 如果您要使用此实验数据，需引用此论文：
-1.SHILIANG LOU, XIAODONG CHEN,* XIAOYAN HAN, JING LIU, YI WANG, AND HUAIYU CAI, “Fast retinal segmentation based on wave algorithm”（投稿中）
+Shiliang Lou, Xiaodong Chen, Xiaoyan Han, Jing Liu, Yi Wang, and Huaiyu Cai, “Fast Retinal Segmentation Based on the Wave Algorithm,” in IEEE Access, vol. 8, pp. 53678-53686, 2020.
 
 
 ----------------------------------------------------------
